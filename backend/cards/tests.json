@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {
+      "name": "Get all cards (anonymous)",
+      "method": "GET",
+      "path": "/",
+      "expectedStatus": 200,
+      "expectedBody": null
+    }
+  ]
+}
